@@ -15,8 +15,8 @@ Pentesting 101 - Duc Pham
 Django FTW - TuDoAnh
 --------------------
 
-To be continued
----------------
+Bách khoa và những cú lừa - Tung491
+-----------------------------------
 
 .. toctree::
    :maxdepth: 2
