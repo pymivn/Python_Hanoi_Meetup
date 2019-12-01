@@ -9,14 +9,22 @@ Welcome to PYMI HANOI Python Meetup_05
 Play with AST - Viet Hung Nguyen
 --------------------------------
 
+Slide: https://gist.github.com/hvnsweeting/4cc161ea3915bcb0cd8fada43de3c12e
+
 Pentesting 101 - Duc Pham
 -------------------------
+
+Slide in PYMI slack.
 
 Django FTW - TuDoAnh
 --------------------
 
+No slide
+
 Bách khoa và những cú lừa - Tung491
 -----------------------------------
+
+Slide: https://gist.github.com/tung491/2a0882a7e391a70a3bab8c1e58035d08
 
 .. toctree::
    :maxdepth: 2
