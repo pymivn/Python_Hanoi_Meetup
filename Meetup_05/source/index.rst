@@ -22,6 +22,7 @@ Django FTW - TuDoAnh
 
 No slide
 Youtube: https://www.youtube.com/watch?v=uuQ5lk9ycr0
+
 Bách khoa và những cú lừa - Tung491
 -----------------------------------
 
